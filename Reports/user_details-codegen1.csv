@@ -1,0 +1,155 @@
+User Name,User Email,Active Status,Groups,Creation Date,MFA Status
+oraclecloudidentityservice/asanga@codegen.co.uk,,ACTIVE,,2021-08-25 17:31:36.829000+00:00,FALSE
+oraclecloudidentityservice/isanka@codegen.net,,ACTIVE,,2021-08-25 17:31:35.891000+00:00,FALSE
+oraclecloudidentityservice/pahan@codegen.net,,ACTIVE,,2021-08-25 17:31:36.181000+00:00,FALSE
+oraclecloudidentityservice/sampatha@codegen.co.uk,,ACTIVE,,2021-08-25 20:06:14.147000+00:00,FALSE
+oraclecloudidentityservice/yohan@codegen.co.uk,,ACTIVE,,2021-08-25 17:31:36.497000+00:00,FALSE
+amilaj@codegen.net,amilaj@codegen.net,ACTIVE,ocrtsarepo,2024-02-19 10:30:24.430000+00:00,TRUE
+asanga@codegen.co.uk,,ACTIVE,"Administrators, ObjectStorageAccess, Announcement_Admin",2018-01-09 09:57:11.848000+00:00,TRUE
+Azure-Devops,,ACTIVE,"vuln-scan-users, ms_training_group",2023-08-17 08:55:59.377000+00:00,FALSE
+bihara@codegen.net,bihara@codegen.net,ACTIVE,"TB_Replica_cluster_Access, TB_ATP_DB_MONITOR_GROUP, TRAVELBOOKER_LIVE_oke_group, TRAVELBOOKER_DEV_PATCH_oke_group, TRAVELBOOKER_OPERATOR_GROUP, TRAVELBOOKER_RO_GROUP, clt_replica_k8s_access, clt_replica",2023-12-18 13:25:14.849000+00:00,TRUE
+binu@codegen.net,binu@codegen.net,ACTIVE,"DEMO_stage_oke_group, DEMO_OPERATOR_GROUP, TRAVELBOOKER_LIVE_oke_group, TRAVELBOOKER_OPERATOR_GROUP, TRAVELBOOKER_DEV_PATCH_oke_group, TRAVELBOOKER_RO_GROUP, DEMO_production_oke_group, clt_replica, clt_replica_k8s_access",2023-04-17 11:03:46.507000+00:00,TRUE
+buddhi@codegen.net,buddhi@codegen.net,ACTIVE,"CG_DR_OPERATOR_GROUP, DSN_OPERATOR_GROUP",2021-05-30 16:51:05.585000+00:00,TRUE
+buff@codegen.net,,ACTIVE,Buff_Email,2020-12-23 09:36:50.105000+00:00,FALSE
+cgdrocr,,ACTIVE,cg_dr_ocr,2023-04-03 07:14:01.991000+00:00,FALSE
+cgdroke,,ACTIVE,cgdroke,2022-05-26 09:12:28.461000+00:00,FALSE
+cgfcdr,,ACTIVE,cgfcdr,2022-04-27 11:56:25.894000+00:00,FALSE
+cgocr,,ACTIVE,ocraccess,2021-03-12 05:00:53.679000+00:00,FALSE
+chamila@codegen.net,chamila@codegen.net,ACTIVE,TRAVELBOOKER_OPERATOR_GROUP,2023-06-27 03:43:56.599000+00:00,FALSE
+chamitha@codegen.net,chamitha@codegen.net,ACTIVE,"DEMO_production_oke_group, DEMO_OPERATOR_GROUP, DEMO_stage_oke_group",2023-04-17 11:06:57.693000+00:00,FALSE
+chandanad@codegen.net,chandanad@codegen.net,ACTIVE,"CG_DR_OPERATOR_GROUP, RequestorGrp, DSN_OPERATOR_GROUP",2022-07-04 12:26:13.270000+00:00,TRUE
+charakaw@codegen.net,charakaw@codegen.net,ACTIVE,"costco_infra_oke_group, lia-rs-ops, BAH_MO_ATP_DB_MONITOR_GROUP, LiaGrp, NEGORATE_PROD_OKE_GROUP, BAH-MO-Cluster_Access",2021-11-25 09:12:17.630000+00:00,TRUE
+chathurika@codegen.net,chathurika@codegen.net,ACTIVE,COSTCO_RO_GROUP,2022-05-17 07:40:48.463000+00:00,FALSE
+chathurinda@codegen.net,chathurinda@codegen.net,ACTIVE,COSTCO_RO_GROUP,2022-05-17 07:46:13.038000+00:00,FALSE
+chehansam@codegen.net,chehansam@codegen.net,ACTIVE,BAH-MO-Cluster_Access,2024-07-03 11:06:19.137000+00:00,TRUE
+chiranthar@codegen.net,chiranthar@codegen.net,ACTIVE,"DSN_OPERATOR_GROUP, CG_DR_OPERATOR_GROUP, RequestorGrp",2023-05-16 06:08:38.557000+00:00,TRUE
+cltatpaccess,,ACTIVE,cltatpaccess,2021-02-18 17:54:51.837000+00:00,FALSE
+cltlivek8s,,ACTIVE,cltlivek8s,2021-06-10 19:28:43.455000+00:00,FALSE
+cltlive_email,,ACTIVE,cltlive_email,2021-06-03 06:19:30.308000+00:00,FALSE
+costcoocr,,ACTIVE,costcoocr,2022-03-16 10:33:24.725000+00:00,FALSE
+dakshithas@codegen.net,dakshithas@codegen.net,ACTIVE,RNDGroup,2024-04-02 05:52:39.562000+00:00,TRUE
+dasunir@codegen.net,dasunir@codegen.net,ACTIVE,"DEMO_stage_oke_group, DEMO_production_oke_group, DEMO_Replica_oke_group, DEMO_OPERATOR_GROUP",2024-02-26 05:22:45.902000+00:00,FALSE
+deeno@codegen.net,deeno@codegen.net,ACTIVE,"MEDIVIEW_PROD_OCR_GROUP, MEDIVIEW_PROD_OKE_GROUP",2023-08-24 07:41:39.786000+00:00,FALSE
+demoocr,demo@codegen.net,ACTIVE,demo_ocr_group,2023-04-10 09:55:19.921000+00:00,FALSE
+demorepoadmin,,ACTIVE,demo_ocr_group,2022-03-15 04:06:04.392000+00:00,FALSE
+demo_prod_oke@codegen.net,,ACTIVE,DEMO_production_oke_group,2023-10-06 08:40:12.301000+00:00,FALSE
+demo_stage_oke@codegen.net,,ACTIVE,DEMO_stage_oke_group,2023-10-06 08:23:48.037000+00:00,FALSE
+deshanl@codegen.net,deshanl@codegen.net,ACTIVE,"costco_infra_oke_group, lia-rs-ops, BAH-MO-Cluster_Access",2023-02-22 06:17:54.085000+00:00,FALSE
+dhanushkah@cloud.codegen.co.uk,dhanushkah@cloud.codegen.co.uk,ACTIVE,"TB_DEV_PATCH_ATP_Group, ATPGroup",2022-09-21 11:58:34.795000+00:00,TRUE
+dharshanag@codegen.net,dharshanag@codegen.net,ACTIVE,"DEMO_production_oke_group, DEMO_Replica_oke_group, DEMO_stage_oke_group",2024-03-12 10:00:45.924000+00:00,FALSE
+dharshi@codegen.net,dharshi@codegen.net,ACTIVE,"TRAVELBOOKER_DEV_PATCH_oke_group, TRAVELBOOKER_OPERATOR_GROUP, TB_Replica_cluster_Access",2023-06-27 04:16:54.407000+00:00,TRUE
+dineshb@codegen.net,dineshb@codegen.net,ACTIVE,"costco_infra_oke_group, lia-rs-ops, NEGORATE_PROD_OKE_GROUP, BAH-MO-Cluster_Access",2022-10-18 11:15:58.131000+00:00,TRUE
+dulajs@codegen.net,dulajs@codegen.net,ACTIVE,"TRAVELBOOKER_DEV_PATCH_oke_group, TRAVELBOOKER_DEV_PATCH_ocr_group",2024-07-18 08:41:08.982000+00:00,FALSE
+dulanjaya@codegen.net,dulanjaya@codegen.net,ACTIVE,"LiaGrp, RNDGroup, ReviewSpotter, NEGORATE_PROD_RO_GROUP_DEV",2022-10-12 03:56:30.979000+00:00,TRUE
+dulithpe@codegen.net,dulithpe@codegen.net,ACTIVE,AnnouncementReaders,2023-08-10 07:14:47.583000+00:00,TRUE
+flairrepoadmin,,ACTIVE,flairrepoadmin,2022-04-22 11:14:14.841000+00:00,FALSE
+ganesh@codegen.net,,ACTIVE,"lia-rs-ops, costco_infra_oke_group, NEGORATE_PROD_OKE_GROUP, BAH-MO-Cluster_Access",2021-11-25 09:12:17.846000+00:00,FALSE
+ganidu@codegen.net,ganidu@codegen.net,ACTIVE,"DEMO_FCOPS, DEMO_OPERATOR_GROUP, DEMO_stage_oke_group, DEMO_production_oke_group, DEMO_Replica_oke_group, CG_DR_View_Resources, BAH_ATP_DBMonitor_Group, BAH-MO-Cluster_Access",2023-04-10 14:18:33.373000+00:00,FALSE
+gayanis@codegen.net,gayanis@codegen.net,ACTIVE,"TRAVELBOOKER_DEV_PATCH_oke_group, TRAVELBOOKER_OPERATOR_GROUP",2023-06-27 04:16:54.683000+00:00,FALSE
+gayanpe@codegen.net,gayanpe@codegen.net,ACTIVE,"DEMO_OPERATOR_GROUP, DEMO_stage_oke_group, DEMO_production_oke_group, DEMO_Replica_oke_group",2023-04-17 11:07:51+00:00,FALSE
+gayans@codegen.net,gayans@codegen.net,ACTIVE,ocrvhrepo,2024-02-13 08:45:28.089000+00:00,TRUE
+geenath@codegen.net,geenath@codegen.net,ACTIVE,"TRAVELBOOKER_DEV_PATCH_ocr_group, TRAVELBOOKER_DEV_PATCH_oke_group",2024-07-18 08:43:14.290000+00:00,FALSE
+harshanij@codegen.net,harshanij@codegen.net,ACTIVE,"DEMO_OPERATOR_GROUP, DEMO_stage_oke_group, DEMO_production_oke_group, DEMO_Replica_oke_group",2024-07-10 13:23:27.896000+00:00,FALSE
+himashaa@codegen.net,himashaa@codegen.net,ACTIVE,"OBSERVABILITY_USER_GROUP_TRAVELBOOKER, medicare",2021-08-19 09:50:20.841000+00:00,FALSE
+himashara@codegen.net,himashara@codegen.net,ACTIVE,,2022-12-23 07:41:31.645000+00:00,TRUE
+hiras@codegen.net,hiras@codegen.net,ACTIVE,"DEMO_production_oke_group, DEMO_OPERATOR_GROUP, DEMO_stage_oke_group, DEMO_FCOPS, DEMO_Replica_oke_group",2023-04-17 11:05:59.250000+00:00,FALSE
+imash@codegen.net,imash@codegen.net,ACTIVE,"OBSERVABILITY_USER_GROUP_TB_REPLICA, OBSERVABILITY_USER_GROUP_TRAVELBOOKER, Administrators, RND_LIA_RS, OBSERVABILITY_USER_GROUP_LIA, clt_replica_k8s_access, osmh-group, vuln-scan-users, demo_group, Announcement_Admin, clt_replica, OBSERVABILITY_GROUP_MS_TRAINING",2018-08-31 12:13:57.728000+00:00,TRUE
+indhuminir@codegen.net,indhuminir@codegen.net,ACTIVE,"DEMO_production_oke_group, DEMO_stage_oke_group, DEMO_OPERATOR_GROUP, BAH_ATP_DBMonitor_Group, DEMO_Replica_oke_group",2023-04-17 11:04:12.729000+00:00,FALSE
+Inspire,,ACTIVE,ObjectStorageAccess,2018-06-05 10:08:20.443000+00:00,FALSE
+irfath@codegen.net,irfath@codegen.net,ACTIVE,"OBSERVABILITY_USER_GROUP_TRAVELBOOKER, Administrators, cgen_infra_management_group, NEGORATE_PRODUCTION_GROUP, costco_infra_group, clt_replica, MANAGE_SERVICE_OPERATOR_GROUP, TRAVELBOOKER_DEV_PATCH_MS_group, costco_infra_oke_group, MEDIVIEW_PRODUCTION_GROUP, TRAVELBOOKER_COST_REPORT_GROUP, common-access-group-ms, Announcement_Admin, DEMO_Replica_oke_group, TRAVELBOOKER_ADMIN_GROUP, osmh-group",2023-07-17 09:08:11.371000+00:00,TRUE
+irusha@codegen.net,irusha@codegen.net,ACTIVE,"MEDIVIEW_PROD_OCR_GROUP, MEDIVIEW_PROD_OKE_GROUP",2023-08-24 07:42:43.307000+00:00,FALSE
+isanka@codegen.net,isanka@codegen.net,ACTIVE,"Announcement_Admin, Administrators, osmh-group",2018-01-09 10:06:12.071000+00:00,TRUE
+isharapr@codegen.net,isharapr@codegen.net,ACTIVE,"DEMO_stage_oke_group, DEMO_OPERATOR_GROUP, DEMO_production_oke_group",2023-04-10 10:35:45.089000+00:00,FALSE
+isurusa@codegen.net,isurusa@codegen.net,ACTIVE,"TRAVELBOOKER_OPERATOR_GROUP, TRAVELBOOKER_DEV_PATCH_oke_group, TRAVELBOOKER_LIVE_oke_group, TB_Replica_cluster_Access",2024-02-19 12:01:57.491000+00:00,TRUE
+janitha@codegen.net,,ACTIVE,,2021-11-08 08:33:44.017000+00:00,FALSE
+jinanadun@codegen.net,jinanadun@codegen.net,ACTIVE,"DEMO_OPERATOR_GROUP, clt_replica_k8s_access, DEMO_stage_oke_group, DEMO_production_oke_group, BAH-MO-Cluster_Access, DEMO_Replica_oke_group, DEMO_FCOPS, BAH_ATP_DBMonitor_Group, CG_DR_View_Resources",2021-07-20 08:38:13.774000+00:00,FALSE
+k8suser,,ACTIVE,k8s_access,2021-03-23 11:19:05.276000+00:00,FALSE
+kasunsa@codegen.net,kasunsa@codegen.net,ACTIVE,"DEMO_OPERATOR_GROUP, DEMO_stage_oke_group, DEMO_production_oke_group, BAH_ATP_DBMonitor_Group, BAH-MO-Cluster_Access, BAH_MO_ATP_Group, DEMO_Replica_oke_group",2023-04-17 11:06:29.972000+00:00,FALSE
+kavinduhe@codegen.net,kavinduhe@codegen.net,ACTIVE,"TRAVELBOOKER_OPERATOR_GROUP, TB_Replica_cluster_Access, TRAVELBOOKER_DEV_PATCH_oke_group, TRAVELBOOKER_LIVE_oke_group",2024-02-19 12:09:26.328000+00:00,TRUE
+keshanin@codegen.net,keshanin@codegen.net,ACTIVE,Tritium_STG_cluster_Access,2024-07-03 05:07:21.669000+00:00,TRUE
+kristi@codegen.net,kristi@codegen.net,ACTIVE,"DSN_OPERATOR_GROUP, CG_DR_OPERATOR_GROUP",2021-08-16 16:07:54.932000+00:00,TRUE
+kushan@codegen.net,kushan@codegen.net,ACTIVE,"IDENTITY_testing_group, OCR_MANAGEMENT_TESTING_GROUP, BAH-MO-Cluster_Access, BAH-Logging-Analytics-Users",2023-02-10 09:42:05.761000+00:00,TRUE
+kushanpr@cloud.codegen.co.uk,kushanpr@cloud.codegen.co.uk,ACTIVE,"ATPGroup, TB_DEV_PATCH_ATP_Group, 23C_TESTING_ocr_group, 23C_TESTING_group, BAH_MO_ATP_Group",2023-07-05 07:51:47.758000+00:00,TRUE
+lahirug@codegen.net,lahirug@codegen.net,ACTIVE,RND-image-Pullers,2024-05-31 05:33:42.243000+00:00,TRUE
+lahirugu@codegen.net,lahirugu@codegen.net,ACTIVE,"ReviewSpotter, LiaGrp, RNDGroup",2022-10-12 04:05:39.885000+00:00,TRUE
+lasithw@codegen.net,lasithw@codegen.net,ACTIVE,"ReviewSpotter, costco_infra_group, LiaGrp, NEGORATE_PROD_OKE_GROUP, BAH-MO-Cluster_Access",2023-06-20 03:46:00.820000+00:00,TRUE
+Lia,,ACTIVE,"RNDGroup, LiaGrp",2020-07-13 10:45:26.959000+00:00,FALSE
+madushanka@codegen.net,madushanka@codegen.net,ACTIVE,Tritium_STG_cluster_Access,2024-07-03 05:06:09.922000+00:00,FALSE
+mafaz@codegen.net,mafaz@codegen.net,ACTIVE,"TRAVELBOOKER_RO_GROUP, TRAVELBOOKER_DEV_PATCH_ocr_group, TRAVELBOOKER_DEV_PATCH_oke_group",2023-04-07 07:59:09.397000+00:00,TRUE
+maleeshag@codegen.net,maleeshag@codegen.net,ACTIVE,"lia-rs-ops, BAH-MO-Cluster_Access",2023-12-08 09:48:33.990000+00:00,TRUE
+malmit@codegen.net,malmit@codegen.net,ACTIVE,"TB_Replica_cluster_Access, TRAVELBOOKER_OPERATOR_GROUP, TRAVELBOOKER_DEV_PATCH_oke_group, TRAVELBOOKER_LIVE_oke_group",2024-02-19 12:10:20.160000+00:00,TRUE
+malshad@codegen.net,malshad@codegen.net,ACTIVE,"LiaGrp, ReviewSpotter, RNDGroup",2022-10-12 03:59:35.573000+00:00,TRUE
+malshan@codegen.net,malshan@codegen.net,ACTIVE,"ms_training_group, COSTCO_ADMIN_GROUP, TRAVELBOOKER_ADMIN_GROUP, vuln-scan-users, MS_DR_TEST_TMP, Administrators, MANAGE_SERVICE_OPERATOR_GROUP, OPB_MANAGEMENT_GROUP, RND_ADMIN_GROUP, Announcement_Admin",2023-06-09 05:47:56.361000+00:00,TRUE
+maneeshi@codegen.net,maneeshi@codegen.net,ACTIVE,"TRAVELBOOKER_DEV_PATCH_ocr_group, TRAVELBOOKER_DEV_PATCH_oke_group, TRAVELBOOKER_LIVE_oke_group, TRAVELBOOKER_OPERATOR_GROUP, TB_Replica_cluster_Access",2024-02-19 12:11:25.993000+00:00,FALSE
+manojapr@codegen.net,manojapr@codegen.net,ACTIVE,DEMO_Replica_oke_group,2024-03-22 09:25:46.292000+00:00,TRUE
+medicare,,ACTIVE,"medicare, ocraccess",2021-02-11 10:10:11.683000+00:00,FALSE
+miskeen@codegen.net,miskeen@codegen.net,ACTIVE,"Announcement_Admin, TRAVELBOOKER_ADMIN_GROUP, Administrators",2022-04-27 06:26:09.749000+00:00,TRUE
+monte@codegen.net,monte@codegen.net,ACTIVE,"LiaGrp, RNDGroup, ReviewSpotter, RND_CLOUD_SHELL_GROUP, NEGORATE_PROD_RO_GROUP_DEV",2022-10-12 04:05:26.430000+00:00,TRUE
+MS-Dashboard,,ACTIVE,MS-Dashboard,2023-08-04 13:42:22.471000+00:00,FALSE
+MS_AI_OPS,,ACTIVE,CG_MS_AI_OPS,2024-04-03 20:51:15.296000+00:00,FALSE
+neelamani@codegen.net,neelamani@codegen.net,ACTIVE,,2022-05-17 07:49:48.713000+00:00,FALSE
+negoratebucket,,ACTIVE,NEGORATE_PROD_BUCKET_GROUP,2023-02-10 17:11:08.849000+00:00,FALSE
+negorateprodbucket,negorate_bucket@codegen.net,ACTIVE,NEGORATE_PROD_BUCKET_GROUP,2023-02-19 03:00:25.859000+00:00,FALSE
+niroshan@codegen.net,niroshan@codegen.net,ACTIVE,"TRAVELBOOKER_DEV_PATCH_oke_group, TRAVELBOOKER_OPERATOR_GROUP",2023-06-26 11:50:32.820000+00:00,FALSE
+nisaln@codegen.net,nisaln@codegen.net,ACTIVE,"TRAVELBOOKER_DEV_PATCH_oke_group, TRAVELBOOKER_OPERATOR_GROUP, TRAVELBOOKER_LIVE_oke_group, TB_Replica_cluster_Access, clt_replica_k8s_access, cltlivek8s",2023-06-27 04:16:54.937000+00:00,FALSE
+nuwand@codegen.net,,ACTIVE,"CG_DR_OPERATOR_GROUP, CG_DR_COST_GROUP",2019-06-13 09:54:14.263000+00:00,TRUE
+ocradmin,cloudops@codegen.net,ACTIVE,"demo_ocr_group, costco_infra_ocr_group, 23C_TESTING_group, 23C_TESTING_ocr_group",2021-06-02 08:38:39.339000+00:00,FALSE
+ocrdemoprod,demo_prod_ocr@codegen.net,ACTIVE,DEMO_production_ocr_group,2023-10-05 08:32:37.481000+00:00,FALSE
+ocrdemorep@codegen.net,ocrdemorep@codegen.net,ACTIVE,ocrdemorep,2024-02-06 08:34:39.554000+00:00,FALSE
+ocrdemostage,demo_stage_ocr@codegen.net,ACTIVE,DEMO_stage_ocr_group,2023-10-05 08:05:05.279000+00:00,FALSE
+ocrmediview,support@mediview.ai,ACTIVE,MEDIVIEW_PROD_OCR_GROUP,2023-08-24 11:05:42.631000+00:00,FALSE
+ocrnegorate,support@negorate.ai,ACTIVE,NEGORATE_PROD_OCR_GROUP,2023-02-10 11:50:46.900000+00:00,FALSE
+ocrtritium_stage@codegen.net,ocrtritium_stage@codegen.net,ACTIVE,Tritium_stage_ocr_group,2024-07-15 07:27:49.498000+00:00,FALSE
+ocrtsarepo@codegen.net,ocrtsarepo@codegen.net,ACTIVE,ocrtsarepo,2024-02-13 07:46:57.657000+00:00,FALSE
+ocrvhrepo@codegen.net,ocrvhrepo@codegen.net,ACTIVE,ocrvhrepo,2024-02-13 08:41:09.418000+00:00,FALSE
+opb_automation,,ACTIVE,opb_automation,2021-11-09 06:56:17.646000+00:00,FALSE
+pahan@codegen.net,pahan@codegen.net,ACTIVE,"Announcement_Admin, Administrators",2018-02-02 10:25:13.328000+00:00,TRUE
+pamoda@codegen.net,pamoda@codegen.net,ACTIVE,"LiaGrp, ReviewSpotter, RNDGroup",2022-10-12 04:04:16.216000+00:00,TRUE
+pamuditham@codegen.net,pamuditham@codegen.net,ACTIVE,COSTCO_RO_GROUP,2022-05-17 07:47:35.346000+00:00,FALSE
+pathums@codegen.net,pathums@codegen.net,ACTIVE,"TRAVELBOOKER_LIVE_oke_group, TRAVELBOOKER_OPERATOR_GROUP, TRAVELBOOKER_DEV_PATCH_oke_group, TB_ATP_DB_MONITOR_GROUP, TB_Replica_cluster_Access",2024-02-15 18:03:46.288000+00:00,TRUE
+piushani@codegen.net,piushani@codegen.net,ACTIVE,"DEMO_production_oke_group, DEMO_OPERATOR_GROUP, DEMO_stage_oke_group, DEMO_Replica_oke_group",2023-05-30 06:04:51.317000+00:00,FALSE
+piviru@codegen.net,piviru@codegen.net,ACTIVE,"MEDIVIEW_PROD_OKE_GROUP, MEDIVIEW_PROD_OCR_GROUP",2023-08-24 07:40:28.546000+00:00,FALSE
+piyumisa@codegen.net,piyumisa@codegen.net,ACTIVE,"DEMO_OPERATOR_GROUP, DEMO_stage_oke_group, DEMO_production_oke_group",2023-04-17 11:05:24.921000+00:00,FALSE
+rahala@cloud.codegen.co.uk,rahala@cloud.codegen.co.uk,ACTIVE,"costco_infra_group, Announcement_Admin, Administrators, DSN_RO, osmh-group",2022-02-18 07:38:07.110000+00:00,TRUE
+ranu@codegen.net,ranu@codegen.net,ACTIVE,"DEMO_production_oke_group, DEMO_OPERATOR_GROUP, DEMO_stage_oke_group",2023-04-17 11:07:23.581000+00:00,FALSE
+rassiya@codegen.net,rassiya@codegen.net,ACTIVE,Tritium_STG_cluster_Access,2024-07-03 05:06:47.123000+00:00,TRUE
+reshika@codegen.net,reshika@codegen.net,ACTIVE,,2022-05-31 10:12:00.626000+00:00,TRUE
+reviewspotter@codegen.net,reviewspotter@codegen.net,ACTIVE,"ReviewSpotter, RS_ACCESS",2020-06-26 07:28:11.083000+00:00,FALSE
+rnd-dev@codegen.net,,ACTIVE,"LiaGrp, RNDGroup, ReviewSpotter",2018-08-30 10:08:59.268000+00:00,TRUE
+rnd-oke,,ACTIVE,rnd-oke,2022-01-12 07:54:23.432000+00:00,FALSE
+rsrepoadmin,,ACTIVE,rs_live_repo_access,2021-10-01 06:54:55.132000+00:00,FALSE
+rusiru@codegen.net,rusiru@codegen.net,ACTIVE,"DEMO_stage_oke_group, DEMO_OPERATOR_GROUP, DEMO_production_oke_group, DEMO_Replica_oke_group, DEMO_FCOPS, BAH-MO-Cluster_Access, CG_DR_View_Resources",2023-04-10 10:41:13.013000+00:00,TRUE
+ruvanij@codegen.net,,ACTIVE,"k8s_access, medicare",2021-02-11 10:52:47.432000+00:00,FALSE
+sasanka@codegen.net,sasanka@codegen.net,ACTIVE,"NEGORATE_PROD_OKE_GROUP, ReviewSpotter, LiaGrp, costco_infra_group, BAH_MO_ATP_DB_MONITOR_GROUP, BAH-MO-Cluster_Access",2023-02-16 09:03:44.287000+00:00,TRUE
+sasindu@codegen.net,sasindu@codegen.net,ACTIVE,"TRAVELBOOKER_OPERATOR_GROUP, OBSERVABILITY_USER_GROUP_TB_REPLICA, MANAGE_SERVICE_OPERATOR_GROUP, OPB_MANAGEMENT_GROUP, DEMO_production_oke_group, common-access-group-ms, ms_training_group, intern_group, lia-rs-ops, cloudguard-group, DEMO_OPERATOR_GROUP, OBSERVABILITY_USER_GROUP_TRAVELBOOKER, clt_replica, cgen_infra_management_group, DEMO_stage_oke_group, NEGORATE_PROD_OKE_GROUP, COSTCO_OPERATOR_GROUP, BAH-MO-Group, TRAVELBOOKER_DEV_PATCH_MS_group, 23C_TESTING_group, MS_ReviewSpotter_Reports, CG_DR_COST_GROUP, KRIYO_EMAIL_ADMINS, osmh-group",2023-01-12 06:04:04.051000+00:00,TRUE
+sawntharan@codegen.net,sawntharan@codegen.net,ACTIVE,"DEMO_OPERATOR_GROUP, DEMO_stage_oke_group, DEMO_production_oke_group",2023-04-10 10:37:40.571000+00:00,FALSE
+shafi@codegen.net,shafi@codegen.net,ACTIVE,,2022-05-17 07:51:55.710000+00:00,FALSE
+sujeewa@codegen.net,sujeewa@codegen.net,ACTIVE,COSTCO_RO_GROUP,2022-05-17 07:40:14.556000+00:00,FALSE
+sujith@codegen.net,sujith@codegen.net,ACTIVE,COSTCO_RO_GROUP,2022-05-17 07:41:42.491000+00:00,FALSE
+support@medicarelive.ai,support@medicarelive.ai,ACTIVE,,2022-10-18 04:42:02.367000+00:00,FALSE
+supunc@codegen.net,supunc@codegen.net,ACTIVE,TRAVELBOOKER_OPERATOR_GROUP,2023-03-08 03:51:44.615000+00:00,FALSE
+surenth@codegen.net,surenth@codegen.net,ACTIVE,"DEMO_production_oke_group, DEMO_stage_oke_group, DEMO_OPERATOR_GROUP, BAH_ATP_DBMonitor_Group, DEMO_Replica_oke_group, CG_DR_View_Resources",2023-04-10 10:39:13.802000+00:00,FALSE
+susithpe@codegen.net,susithpe@codegen.net,ACTIVE,"OBSERVABILITY_USER_GROUP_TB_REPLICA, TRAVELBOOKER_RO_GROUP",2023-10-04 04:17:03.166000+00:00,FALSE
+tbdev_oke_access,,ACTIVE,TRAVELBOOKER_RO_GROUP,2022-05-12 08:03:49.948000+00:00,FALSE
+tbemail@codegen.net,tbemail@codegen.net,ACTIVE,Travelbooker_email_group,2024-07-15 17:41:21.601000+00:00,FALSE
+tbpatch_admin@codegen.net,,ACTIVE,TRAVELBOOKER_DEV_PATCH_MS_group,2023-12-02 06:48:37.900000+00:00,FALSE
+tbrepoadmin,,ACTIVE,tb_live_repo_access,2021-09-06 15:37:48.212000+00:00,FALSE
+tbx-email,no-reply@travelbooker.codegen.net,ACTIVE,tbx-email,2022-10-10 07:25:43.183000+00:00,FALSE
+tb_bucket_access,,ACTIVE,tb_bucket_access,2021-09-01 07:19:17.912000+00:00,FALSE
+tb_devpatch_ocr,tb_devpatch_ocr@codegen.net,ACTIVE,TRAVELBOOKER_DEV_PATCH_ocr_group,2023-12-02 06:48:38.069000+00:00,FALSE
+tb_dev_patch_oke@codegen.net,,ACTIVE,TRAVELBOOKER_DEV_PATCH_oke_group,2023-12-03 11:17:28.216000+00:00,FALSE
+tcrepouser,,ACTIVE,tc-repo-users,2021-11-02 06:19:29.396000+00:00,FALSE
+tharindush@codegen.net,tharindush@codegen.net,ACTIVE,"TRAVELBOOKER_OPERATOR_GROUP, TRAVELBOOKER_DEV_PATCH_oke_group, TRAVELBOOKER_LIVE_oke_group, TB_Replica_cluster_Access",2024-02-19 12:13:24.853000+00:00,TRUE
+thejanr@codegen.net,,ACTIVE,RND_LIA_RS,2018-03-26 04:56:01.295000+00:00,FALSE
+thilakshi@codegen.net,thilakshi@codegen.net,ACTIVE,"TRAVELBOOKER_DEV_PATCH_ocr_group, TRAVELBOOKER_DEV_PATCH_oke_group",2024-07-18 08:43:52.273000+00:00,FALSE
+thilan@codegen.net,thilan@codegen.net,ACTIVE,RNDGroup,2023-01-19 06:34:54.978000+00:00,FALSE
+thisura@codegen.net,thisura@codegen.net,ACTIVE,"Tritium_STG_cluster_Access, TB_Replica_cluster_Access",2024-06-12 07:53:21.990000+00:00,TRUE
+trainee_sysadmin,,ACTIVE,,2019-06-25 13:26:28.168000+00:00,FALSE
+upani@codegen.net,upani@codegen.net,ACTIVE,"TRAVELBOOKER_DEV_PATCH_oke_group, TRAVELBOOKER_DEV_PATCH_ocr_group",2024-07-18 08:44:25.095000+00:00,FALSE
+uthpala@codegen.net,,ACTIVE,Announcement_Admin,2018-02-05 06:23:24.593000+00:00,FALSE
+varani@codegen.net,varani@codegen.net,ACTIVE,Tritium_STG_cluster_Access,2024-07-03 05:04:28.839000+00:00,TRUE
+vishan@codegen.net,vishan@codegen.net,ACTIVE,"DEMO_OPERATOR_GROUP, DEMO_stage_oke_group, DEMO_production_oke_group",2023-04-17 11:04:51.717000+00:00,FALSE
+vishma@codegen.net,vishma@codegen.net,ACTIVE,"NEGORATE_PROD_OKE_GROUP, NEGORATE_PROD_RO_GROUP_DEV, LiaGrp, ReviewSpotter, RNDGroup",2022-10-12 04:05:10.142000+00:00,TRUE
+yasasr@codegen.net,yasasr@codegen.net,ACTIVE,"costco_infra_oke_group, COSTCO_RO_GROUP",2022-05-17 07:46:44.350000+00:00,FALSE
+yohan@codegen.co.uk,yohan@codegen.net,ACTIVE,Administrators,2017-12-09 00:09:34.294000+00:00,FALSE
+yoshan@codegen.net,yoshan@codegen.net,ACTIVE,OCR_MANAGEMENT_TESTING_GROUP,2023-02-10 09:43:03.499000+00:00,FALSE

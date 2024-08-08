@@ -1,0 +1,18 @@
+User Name,User Email,Active Status,Groups,Permission Level,Creation Date
+asanga@codegen.co.uk,asanga@codegen.co.uk,ACTIVE,"Announcement_Admin, Administrators, DataSafeMonitorGroup",Console Access,2022-05-17 03:41:14.443000+00:00
+bihara@codegen.net,bihara@codegen.net,ACTIVE,DBMonitorGroup,Console Access,2024-03-12 11:19:54.932000+00:00
+chamila@codegen.net,chamila@codegen.net,ACTIVE,"Announcement_Admin, OperationsTeam, yas_automation",Console Access,2022-03-18 08:16:51.715000+00:00
+dhanushkah@cloud.codegen.co.uk,dhanushkah@cloud.codegen.co.uk,ACTIVE,"DBA, Announcement_Admin, DBMonitorGroup, DataSafeMonitorGroup",Console Access,2021-06-18 06:01:26.762000+00:00
+himashara@codegen.net,himashara@codegen.net,ACTIVE,MSTeam,Console Access,2023-07-05 08:30:31.388000+00:00
+imash@codegen.net,imash@codegen.net,ACTIVE,"Announcement_Admin, OperationsTeam, OSMH, Administrators",API Key Access,2020-04-08 08:35:53.164000+00:00
+irfath@codegen.net,irfath@codegen.net,ACTIVE,"MSTeam, Administrators, yas_cost_group, OperationsTeam, OSMH",API Key Access,2021-10-11 05:53:42.950000+00:00
+isanka@codegen.net,isanka@codegen.net,ACTIVE,"Announcement_Admin, OSMH, Administrators",Console Access,2021-06-17 11:21:44.319000+00:00
+isharar@codegen.net,isharar@codegen.net,ACTIVE,DBMonitorGroup,Console Access,2024-03-18 08:52:04.505000+00:00
+kushanpr@cloud.codegen.co.uk,kushanpr@cloud.codegen.co.uk,ACTIVE,"DBMonitorGroup, DBA, DataSafeMonitorGroup",Console Access,2023-01-19 20:04:36.931000+00:00
+malshan@codegen.net,malshan@codegen.net,ACTIVE,"OSMH, MSTeam",Console Access,2024-03-19 13:10:09.173000+00:00
+misken@codegen.net,misken@codegen.net,ACTIVE,"OSMH, MSTeam",Console Access,2024-03-19 12:12:15.574000+00:00
+nisaln@codegen.net,nisaln@codegen.net,ACTIVE,DBMonitorGroup,Console Access,2024-03-18 08:51:09.630000+00:00
+pahan@codegen.co.uk,pahan@codegen.co.uk,ACTIVE,"Administrators, Announcement_Admin",Console Access,2023-08-02 09:14:23.460000+00:00
+rahala@cloud.codegen.co.uk,rahala@cloud.codegen.co.uk,ACTIVE,"Administrators, Announcement_Admin, OperationsTeam, OSMH",API Key Access,2022-08-30 03:56:18.466000+00:00
+sasindu@codegen.net,sasindu@codegen.net,ACTIVE,"OSMH, MSTeam, Announcement_Admin, OperationsTeam",API Key Access,2023-12-20 17:32:16.007000+00:00
+yas_automation,,ACTIVE,"yas_automation_group, yas_automation",API Key Access,2021-11-09 07:36:03.655000+00:00

@@ -1,0 +1,32 @@
+Jump  : ^~)0Mc(Nx^0.&54o
+OKE   : #1%gwQvh3u@60s8X
+Splunk : T,k0-z5b2Q~eV~~v
+Redis  : vO$9Mq61TK/dd9pr
+Jenkins : (Nv1Dx66-V9`yW%l
+
+
+
+DB : #sSQ&95NRa6]R#<{
+
+
+database_name :tbxbahmo
+database_admin_password :  #ovJ;13L:;9ThblZ
+
+
+DETAIL - Database >> 172.22.180.131
+----------------------
+cache    	: jvp$IBW7826$lB
+db_audit 	: ljr$KIQ4558$Kt
+h2h 	 	: csu_IQT875$kM
+pdf_repository  : ffk#PJW1673#Tn
+pkgexp 		: rps%GME9472%bz
+ws 		: dqy%CDA4884_xL
+wsc 		: vkg_HMT8331$tY
+tbx 		: upa$NPR6097$ss
+
+
+
+
+
+
+

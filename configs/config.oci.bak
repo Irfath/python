@@ -1,0 +1,7 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaa6aqnep74zs7slfqk4qtuvat6xc5mbcjp2l42h76jprowg4mip7qa
+fingerprint=7b:8a:2a:50:d6:aa:16:41:65:49:f6:7c:b6:26:4e:9d
+tenancy=ocid1.tenancy.oc1..aaaaaaaaxckvxcrpggjrgzbzg4rt2c436k5qdo3w3nnqqk6xyhuzikd4rubq
+region=us-ashburn-1
+key_file="C:/Users/irfath/Desktop/CodeGen Knowledge/terraform/myocikeys/user.pem"
+

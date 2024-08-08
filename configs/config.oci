@@ -1,0 +1,17 @@
+[irfath_codegen]
+user=ocid1.user.oc1..aaaaaaaa6aqnep74zs7slfqk4qtuvat6xc5mbcjp2l42h76jprowg4mip7qa
+fingerprint=d5:69:a9:b5:54:62:eb:1a:7c:c3:43:b6:e2:09:0b:3b
+tenancy=ocid1.tenancy.oc1..aaaaaaaaxckvxcrpggjrgzbzg4rt2c436k5qdo3w3nnqqk6xyhuzikd4rubq
+region=us-ashburn-1
+key_file=C:\Users\irfath\Desktop\CodeGen Knowledge\terraform\myocikeys\irfath_codegen.pem
+
+
+[irfath_farah]
+user=ocid1.user.oc1..aaaaaaaafsvb6xg6m73th7zclbx6tjo5hwwly2czinn4d37ket3fcm7wa4nq
+fingerprint=7a:2a:1d:25:c5:96:49:94:20:6b:34:13:fa:17:4c:a5
+key_file=C:\Users\irfath\Desktop\CodeGen Knowledge\terraform\ssh_keys\irfath-farah.pem
+tenancy=ocid1.tenancy.oc1..aaaaaaaaiqsiivkfwfaaprcuradzeoij4uactsr6cqw657qratep7bkry4xq
+region=us-ashburn-1
+
+
+
