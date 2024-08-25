@@ -5,15 +5,17 @@ tenancy=ocid1.tenancy.oc1..aaaaaaaaxckvxcrpggjrgzbzg4rt2c436k5qdo3w3nnqqk6xyhuzi
 region=us-ashburn-1
 key_file=C:\Users\Irfath\Desktop\Mine\myocikeys\irfath_codegen.pem
 
-
-
 [irfath_farah]
 user=ocid1.user.oc1..aaaaaaaafsvb6xg6m73th7zclbx6tjo5hwwly2czinn4d37ket3fcm7wa4nq
-fingerprint=7a:2a:1d:25:c5:96:49:94:20:6b:34:13:fa:17:4c:a5
-key_file=C:\Users\Irfath\Desktop\Mine\myocikeys\irfath-farah.pem
+fingerprint=df:9d:6d:ec:75:67:b3:12:d5:b5:0f:54:8a:3f:f0:31
 tenancy=ocid1.tenancy.oc1..aaaaaaaaiqsiivkfwfaaprcuradzeoij4uactsr6cqw657qratep7bkry4xq
-region=us-ashburn-1
+region=eu-frankfurt-1
+key_file=C:\Users\Irfath\Desktop\Mine\myocikeys\irfath-farah.pem
+         
 
-
-
-
+[irfath_codegenMSP]
+user=ocid1.user.oc1..aaaaaaaa7p3wdnllkl3r3xi3vwlwl2zya3poitjguklxtt2qxbxcof3gxzzq
+fingerprint=15:cc:d7:61:d2:0d:c8:96:e8:9b:a0:4f:94:32:8a:86
+tenancy=ocid1.tenancy.oc1..aaaaaaaaab74q4ydororotrz5q5vyjkl5albvhc6ymzlpi6542fz3mfrggea
+region=uk-london-1
+key_file=C:\Users\Irfath\Desktop\Mine\myocikeys\irfath_codegenmsp.pem

@@ -56,7 +56,7 @@ config = oci.config.from_file(OCI_CONFIG_FILE_PATH, SELECTED_PROFILE)
 blockstorage_client = oci.core.BlockstorageClient(config)
 compute_client = oci.core.ComputeClient(config)
 
-compartment_id = 'ocid1.compartment.oc1..aaaaaaaak43yymo6paopwm2chr34pzn6csll67ohhclrgeb6bwe5s5vojoba'
+compartment_id = 'ocid1.compartment.oc1..aaaaaaaaqebxly4yqahee72qluopghprzfeqy6mazf5fcl6ghruerlcodjua'
 
 # Function to list all block volumes in a compartment
 def list_block_volumes(compartment_id):
@@ -114,19 +114,20 @@ print(f"Total number of block volumes: {len(block_volumes)}")
 # Initialize a variable to hold the sum of sizes
 total_size_gb = 0
 
+
+
 print("Display_Name,volume_OCID,Size (in GB),Lifecycle State")
 for volume in block_volumes:
-    print(f"Display Name: {volume.display_name}, Volume_OCID: {volume.id}, Size (in GB): {volume.size_in_gbs}, Lifecycle State: {volume.lifecycle_state}")
+#    print(f"Display Name: {volume.display_name}, Volume_OCID: {volume.id}, Size (in GB): {volume.size_in_gbs}, Lifecycle State: {volume.lifecycle_state}")
     total_size_gb += volume.size_in_gbs
 
-print(f"\nTotal size of all block volumes: {total_size_gb} GB")
 
 # Save the block volume data to a CSV file
 volume_data = [["Display Name", "Volume_OCID", "Size (in GB)", "Lifecycle State"]]
 for volume in block_volumes:
     volume_data.append([volume.display_name, volume.id, volume.size_in_gbs, volume.lifecycle_state])
 
-csv_file_path = r'C:\Users\irfath\Desktop\CodeGen Knowledge\Python\OCI_test\Reports\block_volume_details2.csv'
+csv_file_path = r'Reports\block_volume_details2.csv'
 
 with open(csv_file_path, mode='w', newline='') as file:
     writer = csv.writer(file)
@@ -134,9 +135,12 @@ with open(csv_file_path, mode='w', newline='') as file:
 
 print(f"Block Volume Details have been written to {csv_file_path}")
 
+
 # Get the total number of OCPUs and total memory in the specified compartment
 total_ocpus, total_memory_gb = get_total_resources(compartment_id)
 
+
+print(f"\nTotal size of all block volumes: {total_size_gb} GB")
 print(f"\nTotal number of OCPUs in the compartment: {total_ocpus}")
 print(f"Total memory (in GB) in the compartment: {total_memory_gb}")
 
